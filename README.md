@@ -40,10 +40,10 @@ Privacy Guardian helps users:
 ##  Screenshots
 
 ###  Dashboard
-![Dashboard](./screenshots/dashboard.jpg)
+![Dashboard](./screenshots/DASHBOARD.jpg)
 
 ###  App Risk List
-![App List](./screenshots/app_list.jpg)
+![App List](./screenshots/ALL.jpg)
 
 ###  App Details (Critical Risk)
 ![App Details](./screenshots/app_details.jpg)

@@ -37,18 +37,16 @@ Privacy Guardian helps users:
 
 ---
 
-##  Screenshots
+## 📸 Visual Overview
 
-###  Dashboard
-![Dashboard](./screenshots/DASHBOARD.jpg)
+### 📊 Security Dashboard
+![Security Dashboard](./screenshots/DASHBOARD.jpg)
 
-###  App Risk List
-![App List](./screenshots/ALL.jpg)
+### 📋 Application Vulnerability List
+![Application Vulnerability List](./screenshots/ALL.jpg)
 
-###  App Details (Critical Risk)
-![App Details](./screenshots/app_details.jpg)
+### 🛡️ Detailed Risk Analysis (Critical)
+![Detailed Risk Analysis](./screenshots/app_details.jpg)
 
-### Medium Risk Example
-![Medium Risk](./screenshots/medium_risk.jpg)
-
----
+### ⚠️ Risk Assessment (Medium)
+![Medium Risk Assessment](./screenshots/medium_risk.jpg)
